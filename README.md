@@ -27,7 +27,7 @@ The application itself can be invoked with `node index.js`.
 
 *Instructions and examples for use:*
 
-<img src = "./readmevid.mp4">
+<img src = "./readmegif.gif">
 
 When you run `node index.js`, the application uses the `inquirer` package to prompt you in the command line with a series of questions about your GitHub and about your project.
 
