@@ -1,26 +1,35 @@
-# Project Title
-    ![Badge for GitHub repo top language](https://img.shields.io/github/languages/top/dbohn32/readme-generator?style=flat&logo=appveyor) ![Badge for GitHub last commit](https://img.shields.io/github/last-commit/dbohn32/readme-generator?style=flat&logo=appveyor)
-    
-    Check out the badges hosted by [shields.io](https://shields.io/).
-    
-    
+# Readme-Generator
+   
     ## Description 
     
-    *The what, why, and how:* 
     
-    Project Description
+    creating a easy to use readme generator
     ## Table of Contents
+    * [Installation](#installation)
+    * [Contributing](#contributing)
+    * [Tests](#tests)
     * [License](#license)
+    
+    ## Installation
+    
+    *Steps required to install project and how to get the development environment running:*
+    
+    install inquirer
+    
+    ## Tests
+    
+    *Tests for application and how to run them:*
+    
+    none
     
     ## License
     
-    GNU AGPLv3
+    MIT License
     
     ---
     
     ## Questions?
-    
-    ![Developer Profile Picture](https://avatars3.githubusercontent.com/u/71615211?v=4) 
+     
     
     For any questions, please contact me with the information below:
    
